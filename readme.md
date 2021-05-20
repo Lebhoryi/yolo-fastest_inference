@@ -95,5 +95,5 @@ $ python tools/model_converter/post_train_quant_convert.py --keras_model_file ./
   - [ ] soft nms
 
 - [x] tflite 模型推理（在代码中已经实现 [inference_one_picture.ipynb](./inference_one_picture.ipynb)）
-- [ ] 摄像头输入 + tflite 模型推理
+- [x] 摄像头输入 + tflite 模型推理
 - [ ] k210 嵌入式目标检测 + RT-AK
